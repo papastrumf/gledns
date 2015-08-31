@@ -1,0 +1,35 @@
+{
+[
+Hello,
+Greetings,
+
+world!
+planet!
+]
+[
+World,
+Planet,
+
+I greet you.
+I say hello.
+]
++
+[
+Want a
+
+cookie?
+cup of tea?
+]
+}
+
+Which will generate: "Hello, world! Want a cookie?" or "Planet, I say hello. Want a cookie?"
+
+This is a job to parse this syntax and output x number of generated results.
+
+It should also create mispellings, with transpositions, common keyboard shifts, or doubled or missing characters.
+
+It should be a command line program, e.g.
+
+generateTexts infile blockNum count mispellingRatio
+
+the infile could have many of these blocks (which we call recipes) enclosed in {braces}. So if the file had 100 recipes, you could output 6 result based on the 49th recipe. And on averge, 1 out of 10 words should have a mispelling: generateTexts myrecipes.txt 49 6 0.1
