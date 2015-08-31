@@ -37,7 +37,7 @@ with open(LOG, 'w') as logdt:
         logdt.write(line[i].rstrip() + "\n")
 
     dt1=datetime.datetime.now()
-    dt2=dt1.strftime("%d.%m.%y %H:%M: ")
+    dt2=dt1.strftime("%d.%m %H:%M: ")
     logdt.write(dt2)
 
     if os.path.isfile(DAT) is True:
@@ -83,6 +83,6 @@ with open(LOG, 'w') as logdt:
             #print(" ** service restart! **")
             os.system("service noip2 restart > /dev/null")
 
-    print("ovo: %d - %d, ono: %s%s" % (inst0, inst1, ipad1, zviz))
+    #print("ovo: %d - %d, ono: %s%s" % (inst0, inst1, ipad1, zviz))
     logdt.write(" %s-%s : %s%s" % (inst0, inst1, ipad1, zviz))
     logdt.close()
