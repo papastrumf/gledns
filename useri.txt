@@ -1,0 +1,19 @@
+iskukan	Ivanka Skukan	g_IN2-0
+tkosplese	Tanja Kos Pleše	g_IN2-ORA
+nsaric	Nataša Šarić Kekić	g_IN2-0
+abatnozic	Andreja Batnožić	g_IN2-0
+gharapin	Goran Harapin	g_IN2-0
+drep	Damir Rep	g_IN2-ORA
+tkusanic	Tomislav Kušanić	g_IN2-0
+dturina	Dubravko Turina	g_IN2-0
+izorovic	Ivana Zorović	g_IN2-0
+kterkal	Krešimir Terkal	g_IN2-ORA
+llopatic	Leonard Lopatić	g_IN2-ORA
+mpucic	Marijo Pučić	g_IN2-ORA
+avilovcevic	Alen Vilovčević	g_IN2-0
+teas	Tea Šerbedžija	g_IN2-0
+zrinkom	Zrinko Mršo	g_IN2-ORA
+kresom	Krešo Matejčić	g_IN2-ORA
+majai	Maja Inđić	g_IN2-ORA
+ivuletic	Ivica Vuletić	g_IN2-0
+mbicanic	Martina Bićanić	g_IN2-0
